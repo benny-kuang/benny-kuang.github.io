@@ -2,16 +2,16 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: about
-    entries:
-    - title: just a random place for me to place my thoughts and other creative endeavors...
-    - title: ...a place to roam...
-    - title: ...place to...
-    - title: ...relive the y2k era...
-
-  - title: recent
+  - title: all posts
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
+
+  - title: posts by category
+    post_list:
+      category: example2
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: example2-archive.html
