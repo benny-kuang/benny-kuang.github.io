@@ -3,11 +3,11 @@ layout: post
 category: stories
 ---
 
-<img src="https://raw.githubusercontent.com/benny-kuang/benny-kuang.github.io/gh-pages/_data/IMG_4310.jpg">
+<img src="https://raw.githubusercontent.com/benny-kuang/benny-kuang.github.io/gh-pages/_data/IMG_4310.jpg" height="480px">
 
 It is nearly 10 years since my grandpa passed. One of the last videos I have of him is a short clip -- I beckon him to say it, say it. He imitates the sound of the announcer on the MAX train as it arrives to their stop. What compelled me to record this moment not knowing that would be one of the last moments I would have with him? The joy and elation he expresses. It was spurred by a dinner we had beforehand where by happenstance, I, as am oft to do, recollect with my cousins and my grandparents about the days we lived together -- how they raised us and how we would often ride the MAX to different parts of town. My grandpa would say, yes, and when we were about to arrive, I would say to you that we are almost there (in the intontontation of the little train chime).
 
-<iframe src="https://www.dropbox.com/s/fenodw1it3teonq/2015-01-24%2020.41.53.mov?raw=1" align="center" height="480px" width="480px" allowfullscreen></iframe>
+<iframe src="https://www.dropbox.com/s/fenodw1it3teonq/2015-01-24%2020.41.53.mov?raw=1" allign="center" height="480px" width="480px" allowfullscreen></iframe>
 
 
 The train of memory comes and goes....So does those memories of my grandpa begin to fade...Rewatching the clip over and over, remembering and clinging to how he sounded like, how he looked like...seeing it dissipate.
