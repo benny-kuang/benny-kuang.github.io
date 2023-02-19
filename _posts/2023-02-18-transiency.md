@@ -20,7 +20,7 @@ I returned home, excited to find the tapes, only to come to this realization. Wh
 
 Recently, I watched Cafe Lumiere a film by the Taiwanese filmmaker Hou Hsiao Hsien as an homage to the Japanese filmmaker Yasujiro Ozu. In it, trains are captured prominently as a set piece and focal point.
 
-<iframe src="https://www.dropbox.com/s/7zfprqwbfj0gohv/Caf%C3%A9%20Lumi%C3%A8re%20%282003%29%20Clip.mov?raw=1" allowfullscreen></iframe>
+<iframe src="https://www.dropbox.com/s/7zfprqwbfj0gohv/Caf%C3%A9%20Lumi%C3%A8re%20%282003%29%20Clip.mov?raw=1" width="480px" allowfullscreen></iframe>
 
 
 I am drawn to these moments. Feeling the essence of transiency that riding a train brings. Solemn, silent -- yet gleeful and whimsical -- adventurous and boundless. The past, present, and future meld into one -- much as I sit and gaze upon my memories. Remembering these exact times I rode the MAX with my grandparents -- feeling the cool A/C, the felt fabric seats. Mesmerized by the speed and sense of anticipation arriving to the mall and being able to see all the different toys and videos I would like to buy. 
